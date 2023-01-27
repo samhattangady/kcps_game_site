@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Leander;
+    src: url(Leander/Leander.ttf);
+}
+
+body {
+  overflow-y: scroll;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #67a0c2;
+  font-family: 'Leander', serif;
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 400;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content {
+  max-width: 800px;
+}
+
+.header {
+}
+
+.header-img {
+  width: 800px;
+  max-width: 100%;
+}
+
+.header-text {
+  text-align: center;
+  font-size: 1.436em;
+}
+
+.youtube {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.inframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.info {
+  text-align: center;
+  font-size: 1.5em;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.steam {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 200px;
+  overflow-y: hidden;
+}
+
+.creators {
+  text-align: center;
+  font-size: 1.2em;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+  font-size: 1.2em;
+}
+
+.link {
+  background-color: #2e4f7f;
+  padding: 15px;
+  border-radius: 5px;
+}
