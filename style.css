@@ -69,8 +69,7 @@ body {
 .creators {
   text-align: center;
   font-size: 1.2em;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 a {
@@ -84,7 +83,6 @@ a:visited {
 .links {
   display: flex;
   justify-content: space-evenly;
-  padding-bottom: 30px;
   font-size: 1.2em;
 }
 
@@ -93,3 +91,4 @@ a:visited {
   padding: 15px;
   border-radius: 5px;
 }
+
