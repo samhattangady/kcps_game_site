@@ -92,3 +92,28 @@ a:visited {
   border-radius: 5px;
 }
 
+.description {
+  font-family: 'Leander', serif;
+  padding-top: 30px;
+  font-size: 1.2em;
+}
+
+.gif {
+  width: 100%;
+}
+
+.about {
+  padding-top: 30px;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.hr {
+  margin-top: 60px;
+  border-top: 1px solid white;
+  width: 60%;
+}
+
+h3 {
+  text-align: center;
+}
